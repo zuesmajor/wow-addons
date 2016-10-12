@@ -1,0 +1,5 @@
+## Interface: 7000
+## Title : Artifact Bar Color
+## Author: Patrick Ryan
+main.lua
+
